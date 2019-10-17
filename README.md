@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/190050339.svg)](https://zenodo.org/badge/latestdoi/190050339)
+
 # dirt-t
 
 Pytorch implementation of the paper [A DIRT-T Approach to Unsupervised Domain Adaptation](https://arxiv.org/abs/1802.08735). The code here only partially mirrors the original work. It should be possible to use VADA model and a bit of code reuse from the script `vada_train.py` to be able to perform the recursive iteration described in the paper.
